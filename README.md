@@ -1,8 +1,8 @@
 # Parallel Matrix Multiplication Benchmark
 
-## Nisarg Jigneshbhai Kachhia
+## Namra Patel
 
-## 1002265218
+## 1002229720
 
 This project evaluates the runtime differences between serial and parallel implementations of matrix multiplication in Python. It allows users to test the correctness and efficiency of parallel computations, leveraging multiple threads.
 
